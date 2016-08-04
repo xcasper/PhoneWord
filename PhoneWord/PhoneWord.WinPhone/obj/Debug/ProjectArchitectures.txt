@@ -1,0 +1,2 @@
+C:\Users\cglec\OneDrive\Documents\GitHub\PhoneWord\PhoneWord\PhoneWord.WinPhone\PhoneWord.WinPhone.csproj;neutral
+C:\Users\cglec\OneDrive\Documents\GitHub\PhoneWord\PhoneWord\PhoneWord\PhoneWord.csproj;neutral
