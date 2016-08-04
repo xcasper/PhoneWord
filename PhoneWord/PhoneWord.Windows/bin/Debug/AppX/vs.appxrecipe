@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-174NLTL</Machine>
+    <WindowsUser>cglec</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>85930d70-750c-41a6-9b95-03faaed4159c</PackageIdentityName>
+    <PackageIdentityPublisher>CN=joaqu</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\cglec\OneDrive\Documents\GitHub\PhoneWord\PhoneWord\PhoneWord\PhoneWord.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>9D2A99DDDB008F477D480FF08613F90AFBE2CD87A720B1DBA969B2A11B60FEBB</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>85930d70-750c-41a6-9b95-03faaed4159c_1.0.0.0_neutral__nh7s0b45jarrj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>85930d70-750c-41a6-9b95-03faaed4159c_nh7s0b45jarrj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>85930d70-750c-41a6-9b95-03faaed4159c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=joaqu</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\cglec\OneDrive\Documents\GitHub\PhoneWord\PhoneWord\PhoneWord\PhoneWord.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-04T01:50:06.543</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\cglec\OneDrive\Documents\GitHub\PhoneWord\PhoneWord\PhoneWord\PhoneWord.Windows\bin\Debug\PhoneWord.Windows.exe">
+      <PackagePath>PhoneWord.Windows.exe</PackagePath>
+      <Modified>2016-08-04T01:50:05.918</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cglec\OneDrive\Documents\GitHub\PhoneWord\PhoneWord\PhoneWord\PhoneWord\bin\Debug\PhoneWord.dll">
+      <PackagePath>PhoneWord.dll</PackagePath>
+      <Modified>2016-08-04T01:32:22.255</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cglec\OneDrive\Documents\GitHub\PhoneWord\PhoneWord\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Core.dll">
+      <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
+      <Modified>2015-11-17T15:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cglec\OneDrive\Documents\GitHub\PhoneWord\PhoneWord\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.dll">
+      <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
+      <Modified>2015-11-17T15:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cglec\OneDrive\Documents\GitHub\PhoneWord\PhoneWord\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.dll</PackagePath>
+      <Modified>2015-11-17T15:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cglec\OneDrive\Documents\GitHub\PhoneWord\PhoneWord\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet.dll</PackagePath>
+      <Modified>2015-11-17T15:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cglec\OneDrive\Documents\GitHub\PhoneWord\PhoneWord\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Xaml.dll">
+      <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
+      <Modified>2015-11-17T15:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cglec\OneDrive\Documents\GitHub\PhoneWord\PhoneWord\PhoneWord\PhoneWord.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-04T00:56:24.069</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cglec\OneDrive\Documents\GitHub\PhoneWord\PhoneWord\PhoneWord\PhoneWord.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-04T00:56:24.072</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cglec\OneDrive\Documents\GitHub\PhoneWord\PhoneWord\PhoneWord\PhoneWord.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-04T00:56:24.073</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cglec\OneDrive\Documents\GitHub\PhoneWord\PhoneWord\PhoneWord\PhoneWord.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-04T00:56:24.075</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cglec\OneDrive\Documents\GitHub\PhoneWord\PhoneWord\PhoneWord\PhoneWord.Windows\bin\Debug\PhoneWord.Windows.xr.xml">
+      <PackagePath>PhoneWord.Windows.xr.xml</PackagePath>
+      <Modified>2016-08-04T01:50:05.784</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cglec\OneDrive\Documents\GitHub\PhoneWord\PhoneWord\PhoneWord\PhoneWord.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-08-04T01:50:05.854</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cglec\OneDrive\Documents\GitHub\PhoneWord\PhoneWord\PhoneWord\PhoneWord.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-08-04T01:50:05.854</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cglec\OneDrive\Documents\GitHub\PhoneWord\PhoneWord\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT\FormsTextBox.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\FormsTextBox.xbf</PackagePath>
+      <Modified>2015-11-17T15:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cglec\OneDrive\Documents\GitHub\PhoneWord\PhoneWord\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\PageControl.xbf</PackagePath>
+      <Modified>2015-11-17T15:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cglec\OneDrive\Documents\GitHub\PhoneWord\PhoneWord\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT\StepperControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\StepperControl.xbf</PackagePath>
+      <Modified>2015-11-17T15:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cglec\OneDrive\Documents\GitHub\PhoneWord\PhoneWord\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml</PackagePath>
+      <Modified>2015-11-17T15:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cglec\OneDrive\Documents\GitHub\PhoneWord\PhoneWord\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf</PackagePath>
+      <Modified>2015-11-17T15:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cglec\OneDrive\Documents\GitHub\PhoneWord\PhoneWord\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf</PackagePath>
+      <Modified>2015-11-17T15:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cglec\OneDrive\Documents\GitHub\PhoneWord\PhoneWord\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml</PackagePath>
+      <Modified>2015-11-17T15:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cglec\OneDrive\Documents\GitHub\PhoneWord\PhoneWord\PhoneWord\PhoneWord.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-08-04T01:50:06.325</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

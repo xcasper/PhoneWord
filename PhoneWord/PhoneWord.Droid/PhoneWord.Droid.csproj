@@ -117,7 +117,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\PhoneWord\PhoneWord.csproj">
-      <Project>{592A412D-8D7B-4635-A94C-E149D9835A6A}</Project>
+      <Project>{ABB4FA2F-5859-48E2-AAAF-81352A81C7BC}</Project>
       <Name>PhoneWord</Name>
     </ProjectReference>
   </ItemGroup>
